@@ -25,18 +25,18 @@ html {
 }
 
 .img {
-  margin-left: 90px;
+  margin-left: 10px;
   margin-top: 5px;
 }
 
 .social-icons {
   display: flex;
   align-items: center;
-  margin-left: 160px;
+  margin-left: 60px;
 }
 
 .social-icons .col-auto {
-  margin-right: 20px;
+  margin-right: 30px;
 }
 
 .divider {
@@ -46,7 +46,19 @@ html {
 }
 
 .content-container {
+  margin-left: 100px;
+  margin-bottom: 100px;
   background-color: rgba(255, 255, 255, 0.8); /* Белый с прозрачностью */
   padding: 20px;
+  border-radius: 12px;
+}
+
+.text-center {
+  font-style: italic;
+  color: black;
+}
+
+.soc-cont {
+  background-color: rgb(101, 101, 137);
   border-radius: 12px;
 }
